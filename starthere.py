@@ -1,3 +1,8 @@
+#Random Interview Question Script
+#Programmed by Jon Lau 
+#September 12, 2016
+#Website: www.jonlau.net
+
 import numpy as np
 import pandas as pd
 from random import randint
